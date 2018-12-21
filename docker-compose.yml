@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  app:
+    build: ./app
+    image: blink_timelapse
+    volumes:
+    - ./app:/app
+    - ./images:/images
+    env_file:
+    - ./secret.env
