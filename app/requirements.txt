@@ -3,7 +3,7 @@ certifi==2018.11.29
 chardet==3.0.4
 extras==1.0.0
 fixtures==3.0.0
-idna==2.8
+idna==2.10
 linecache2==1.0.0
 pbr==5.1.2
 python-mimeparse==1.6.0
