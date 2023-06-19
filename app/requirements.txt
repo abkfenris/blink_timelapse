@@ -5,7 +5,7 @@ extras==1.0.0
 fixtures==3.0.0
 idna==2.8
 linecache2==1.0.0
-pbr==5.1.2
+pbr==5.11.1
 python-mimeparse==1.6.0
 requests==2.21.0
 six==1.12.0
