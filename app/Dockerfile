@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.12-alpine
 
 # Output logging faster
 ENV PYTHONUNBUFFERED 1
