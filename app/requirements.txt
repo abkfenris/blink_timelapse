@@ -2,7 +2,7 @@ blinkpy==0.11.0
 certifi==2018.11.29
 chardet==3.0.4
 extras==1.0.0
-fixtures==3.0.0
+fixtures==4.3.2
 idna==2.8
 linecache2==1.0.0
 pbr==5.1.2
